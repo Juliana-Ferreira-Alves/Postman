@@ -1,5 +1,5 @@
-# postman-em-1-hora
-Materiais para o curso de Postman em 1 hora
+# postman
+Entendendo o Postman
 
 
 # Simple Books API #
